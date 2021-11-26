@@ -19,7 +19,7 @@ sections:
     title: Features
     subtitle: Learn more about how our Powerstation works under different applications.
     features:
-      - title: The Best Feature of Your Services
+      - title: How does it work?
         image: /images/300W outputs and inputs.jpg
         image_alt: App preview on a phone and tablet
         content: >-
