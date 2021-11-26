@@ -74,8 +74,8 @@ sections:
       - author: David
         avatar_alt: Eric Widget's photo
         content: >-
-          Great Product! works with my laptop and standing fan. I no longer need
-          to put on my gen when working overnight..
+          it's nicely designed.... better than any I've ever used. It's very
+          solid. I'm impressed thus far.
         avatar: /images/159905198_2911562099097702_3314649515213832605_n.jpg
       - author: Olalekan
         avatar_alt: Parsley Montana's photo
