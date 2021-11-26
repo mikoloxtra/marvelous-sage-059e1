@@ -30,7 +30,7 @@
             },
             {
                 "label": "Buy Now!",
-                "url": "/signup",
+                "url": "https://flutterwave.com/pay/popular-energy",
                 "style": "primary"
             }
         ]
