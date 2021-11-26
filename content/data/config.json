@@ -80,7 +80,7 @@
                     {
                         "label": "Instagram",
                         "url": "https://www.linkedin.com/popular_energy",
-                        "style": "link",
+                        "style": "secondary",
                         "has_icon": true,
                         "icon": "linkedin",
                         "icon_position": "left"
