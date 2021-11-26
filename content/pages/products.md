@@ -39,7 +39,33 @@ sections:
           https://wa.me/%2B2348182400598?text=Hello%2C%20We%20are%20Popular%20Energy.%0AHow%20can%20we%20be%20of%20service%3F
         style: secondary
 
-        
+      - title: Newsletter
+    subtitle: Subscribe to get the best deals in your email now!
+    background: white
+    form_id: lead-magnet
+    form_action: submit
+    hide_labels: true
+    form_fields:
+      - input_type: text
+        name: name
+        label: name
+        default_value: name
+        options: []
+        is_required: true
+      - input_type: email
+        name: Newsletter
+        label: Subscribe Now
+        default_value: email-address
+        options: []
+        is_required: false
+    submit_label: Submit
+    type: section_contact
+    section_id: Lead Magnet
+  - section_id: features
+    type: section_features
+    background: gray
+    title: Features
+    subtitle: Learn more about how our Powerstation works under different applications.    
   - section_id: call-to-action
     type: section_cta
     title: 'Want stable electricity? '
