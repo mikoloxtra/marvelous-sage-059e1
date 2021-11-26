@@ -52,7 +52,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Who is it designed for?
-        image: /images/300W Cross-section.jpg
+        image: /images/imageedit_6_4750278954 - Copy.jpg
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
