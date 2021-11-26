@@ -46,7 +46,7 @@ sections:
           highly durable and safe as a result of an advanced BMS (battery
           management system).
         actions:
-          - label: 'BUY NOW FOR ₦120,000 only!'
+          - label: Learn More
             url: /products
             style: secondary
             has_icon: true
