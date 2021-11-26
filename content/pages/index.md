@@ -73,9 +73,7 @@ sections:
     reviews:
       - author: Erinle Samuel
         avatar_alt: Eric Widget's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: Great Product! W.
         avatar: /images/159905198_2911562099097702_3314649515213832605_n.jpg
       - author: Olalekan
         avatar_alt: Parsley Montana's photo
