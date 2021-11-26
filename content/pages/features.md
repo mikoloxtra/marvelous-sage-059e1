@@ -57,9 +57,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Features
+      value: products
     - name: 'twitter:description'
-      value: This is the features page
+      value: This is the products page
     - name: 'twitter:image'
       value: images/feature1.png
       relativeUrl: true
