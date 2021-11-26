@@ -32,7 +32,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: 'Want stable electricity? '
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Get the Portable Powersation to keep your device charged and stay
+      productive
     actions:
       - label: 'Buy Now '
         url: 'https://flutterwave.com/pay/popular-energy'
