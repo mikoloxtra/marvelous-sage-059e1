@@ -1,7 +1,7 @@
 ---
 title: Products
 sections:
-  - section_id: features
+  - section_id: products
     type: section_content
     background: gray
     image: /images/300W front-764ed20b.png
