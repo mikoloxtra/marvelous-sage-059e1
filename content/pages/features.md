@@ -39,7 +39,7 @@ sections:
         style: secondary
 seo:
   title: Features
-  description: This is the features page
+  description: This is the products page
   extra:
     - name: 'og:type'
       value: website
