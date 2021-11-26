@@ -70,7 +70,7 @@
                     },
                     {
                         "label": "Buy Now",
-                        "url": "lorem-ipsum",
+                        "url": "https://flutterwave.com/pay/popular-energy",
                         "style": "link",
                         "has_icon": false,
                         "icon": "arrow-left",
