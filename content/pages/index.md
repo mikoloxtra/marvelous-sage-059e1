@@ -88,6 +88,7 @@ sections:
           GOOD PRODUCT.
 
           One Year No Issues!
+        avatar: /images/Profile_avatar_placeholder_large.png
   - section_id: call-to-action
     type: section_cta
     title: Want stable electricity?
