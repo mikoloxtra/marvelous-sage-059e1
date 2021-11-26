@@ -88,8 +88,8 @@ sections:
         avatar: /images/1619096163098.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          it's nicely designed.... better than any I've ever used. It's very
+          solid. I'm impressed thus far.
   - section_id: call-to-action
     type: section_cta
     title: Want stable electricity?
