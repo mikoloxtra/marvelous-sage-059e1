@@ -26,7 +26,7 @@ sections:
       - label: Buy Online
         url: 'https://flutterwave.com/pay/popular-energy'
         style: primary
-      - label: View Demo
+      - label: 'Call '
         url: '#'
         style: secondary
   - section_id: call-to-action
