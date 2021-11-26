@@ -5,10 +5,9 @@ sections:
     type: section_contact
     background: gray
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: >
+      Send us an email with the form below or WhatsApp/ give us a call on
+      08182400598
     form_id: contactForm
     form_fields:
       - input_type: text
