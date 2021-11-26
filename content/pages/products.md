@@ -35,7 +35,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: 'Buy Now '
-        url: '#'
+        url: 'https://flutterwave.com/pay/popular-energy'
         style: secondary
 seo:
   title: Products
