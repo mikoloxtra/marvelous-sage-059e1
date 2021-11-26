@@ -84,7 +84,7 @@ sections:
           to charge my two laptops after I switched off my generator for several
           hours.
         avatar: /images/103406896_1435166023539613_4312611922187006443_n.jpg
-      - author: Jazeel
+      - author: Obinna
         avatar: /images/1619096163098.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: |-
