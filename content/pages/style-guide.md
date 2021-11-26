@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Contact Us
 subtitle: 'Send us an email, WhatsApp message or Give us a Phone call.'
 seo:
   title: Style Guide
