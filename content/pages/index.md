@@ -72,7 +72,6 @@ sections:
       semper libero id sodales.
     reviews:
       - author: Erinle Samuel
-        avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
