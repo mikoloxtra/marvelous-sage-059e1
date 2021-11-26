@@ -80,7 +80,7 @@ sections:
       - author: Olalekan
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
-        content: 'Works well! Carries my '
+        content: Works well! Carries my 50 inch tv sef
       - author: Jazeel
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
