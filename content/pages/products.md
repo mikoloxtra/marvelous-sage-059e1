@@ -7,21 +7,29 @@ sections:
     image: /images/300W front-764ed20b.png
     image_alt: Portable inverter
     title: The 300W Portable Powerstation
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      The Portable Powerstation is a powerful Backup Generator with a 346wh
+      Capacity battery that can power your laptop, gadgets and small appliances
+      fo long hours. It has AC outlets for devices up to 300w, Usb charging
+      ports and DC ports for DC devices.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      ***Features***
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      *   Powerful 93,600Mah Lithium battery that can charge a laptop up to 5
+      times over.
+
+      *   Durable Aluminium Build and a sturdy handle which makes it portable
+      and highly durable
+
+      *   Easy to setup and use, Multiple charging options with Electricity,
+      Generator and an Optional Solar charging Feature if you're totally
+      offgrid.
+
+
+      Get the Portable Geneator so you never have to stop working due to a power
+      outages!
     actions:
       - label: Buy Online
         url: 'https://flutterwave.com/pay/popular-energy'
