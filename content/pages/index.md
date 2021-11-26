@@ -8,7 +8,7 @@ sections:
     title: The Portable Powertation 300W
     content: >
       The Powerstation is the perfect device for designers & developers to keep
-      their gadgets powered up in an event of a power failure
+      their gadgets powered up in an event of a power failure.
     actions:
       - label: BUY NOW!
         url: 'https://flutterwave.com/pay/popular-energy'
