@@ -73,7 +73,7 @@ sections:
     reviews:
       - author: Erinle Samuel
         avatar_alt: Eric Widget's photo
-        content: Great Product! W.
+        content: Great Product! works with my laptop and standing fan .
         avatar: /images/159905198_2911562099097702_3314649515213832605_n.jpg
       - author: Olalekan
         avatar_alt: Parsley Montana's photo
