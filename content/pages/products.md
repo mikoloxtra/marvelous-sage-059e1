@@ -29,7 +29,7 @@ sections:
 
 
       Get the Portable Geneator so you never have to stop working due to a power
-      outages for ₦120,000 only!
+      outages for **₦120,000 only!**
     actions:
       - label: Buy Online
         url: 'https://flutterwave.com/pay/popular-energy'
