@@ -98,7 +98,7 @@ sections:
       productive.
     actions:
       - label: Buy Now!
-        url: /signup
+        url: 'https://flutterwave.com/pay/popular-energy'
         style: primary
   - section_id: recent-posts
     type: section_posts
