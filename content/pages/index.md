@@ -88,6 +88,8 @@ sections:
           GOOD PRODUCT.
 
           One Year No Issues!
+
+          Works with my laptop, Router and Monitor
         avatar: /images/Profile_avatar_placeholder_large.png
   - section_id: call-to-action
     type: section_cta
