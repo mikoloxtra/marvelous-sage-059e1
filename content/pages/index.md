@@ -29,7 +29,7 @@ sections:
           charging ports which can keep your laptop, fans, monitors and gadgets
           charged.
         actions:
-          - label: Buy Now!
+          - label: 'BUY NOW FOR ₦120,000 only!'
             url: 'https://flutterwave.com/pay/popular-energy'
             style: secondary
             has_icon: true
