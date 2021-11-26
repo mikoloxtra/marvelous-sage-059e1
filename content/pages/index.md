@@ -99,7 +99,7 @@ sections:
     subtitle: Our Customers share their amazing experiences with our product!
     reviews:
       - author: David
-        avatar_alt: Eric Widget's photo
+        avatar_alt: Popular Energy Review
         content: >-
           it's nicely designed.... better than any I've ever used. It's very
           solid. I'm impressed thus far.
