@@ -1,5 +1,5 @@
 ---
-title: The Benefits of working remotely
+title: Setup Guide
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
