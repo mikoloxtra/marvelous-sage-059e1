@@ -105,7 +105,7 @@ sections:
           solid. I'm impressed thus far.
         avatar: /images/159905198_2911562099097702_3314649515213832605_n.jpg
       - author: Olalekan
-        avatar_alt: Parsley Montana's photo
+        avatar_alt: Popular Energy Review
         content: >-
           Works well! Carries my 50 inch tv sef, carries my fan, I have used it
           to charge my two laptops after I switched off my generator for several
