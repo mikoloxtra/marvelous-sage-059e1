@@ -94,7 +94,7 @@ sections:
             icon_position: right
   - section_id: reviews
     type: section_reviews
-    background: gray
+    background: white
     title: Testimonials
     subtitle: Our Customers share their amazing experiences with our product!
     reviews:
