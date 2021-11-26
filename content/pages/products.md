@@ -34,7 +34,7 @@ sections:
     title: 'Want stable electricity? '
     subtitle: >-
       Get the Portable Powersation to keep your device charged and stay
-      productive
+      productive.
     actions:
       - label: 'Buy Now '
         url: 'https://flutterwave.com/pay/popular-energy'
