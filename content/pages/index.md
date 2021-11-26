@@ -35,7 +35,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: How does it work?
-        image: /images/inverter.gif
+        image: /images/invertervideo.gif
         image_alt: App users welcoming a new member
         content: >
           The Portable powerstation packs a 93,000Mah Lithium Battery backed by
