@@ -1,5 +1,5 @@
 ---
-title: Setup Guide
+title: Product Setup Guide
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
