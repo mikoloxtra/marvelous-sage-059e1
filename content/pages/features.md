@@ -45,7 +45,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: products
+      value: Products
       keyName: property
     - name: 'og:description'
       value: This is the products page
