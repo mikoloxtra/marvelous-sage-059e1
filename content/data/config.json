@@ -71,7 +71,7 @@
                     {
                         "label": "Buy Now",
                         "url": "https://flutterwave.com/pay/popular-energy",
-                        "style": "link",
+                        "style": "primary",
                         "has_icon": false,
                         "icon": "arrow-left",
                         "icon_position": "left",
