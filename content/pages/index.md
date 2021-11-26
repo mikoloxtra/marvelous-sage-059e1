@@ -105,7 +105,7 @@ sections:
       Get the Portable Powersation to keep your device charged and stay
       productive.
     actions:
-      - label: Buy Now!
+      - label: 'BUY NOW FOR ₦120,000 only!'
         url: 'https://flutterwave.com/pay/popular-energy'
         style: primary
   - section_id: recent-posts
