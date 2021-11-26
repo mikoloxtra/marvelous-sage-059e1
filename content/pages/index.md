@@ -89,7 +89,7 @@ sections:
         avatar_alt: Jonquil Von Haggerston's photo
         content: |-
           GOOD PRODUCT.
-          One Year No Issues
+          One Year No Issues!
   - section_id: call-to-action
     type: section_cta
     title: Want stable electricity?
