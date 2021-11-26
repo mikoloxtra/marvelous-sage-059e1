@@ -67,7 +67,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: Our Customers share their amazing experiences with our product.
+    subtitle: Our Customers share their amazing experiences with our product!
     reviews:
       - author: David
         avatar_alt: Eric Widget's photo
