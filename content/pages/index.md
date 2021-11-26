@@ -13,7 +13,7 @@ sections:
       - label: BUY NOW!
         url: 'https://flutterwave.com/pay/popular-energy'
         style: primary
-     - label: ₦120,000 only!
+     - title: ₦120,000 only!
   - section_id: features
     type: section_features
     background: gray
