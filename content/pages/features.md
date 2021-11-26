@@ -48,7 +48,7 @@ seo:
       value: Features
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: This is the products page
       keyName: property
     - name: 'og:image'
       value: images/feature1.png
