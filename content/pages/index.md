@@ -75,7 +75,7 @@ sections:
         avatar_alt: Eric Widget's photo
         content: >-
           Great Product! works with my laptop and standing fan. I no longer need
-          to put on my gen whe.
+          to put on my gen when working overnight.
         avatar: /images/159905198_2911562099097702_3314649515213832605_n.jpg
       - author: Olalekan
         avatar_alt: Parsley Montana's photo
