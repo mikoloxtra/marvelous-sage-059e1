@@ -98,7 +98,7 @@
             {
                 "type": "footer_form",
                 "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Stay up to date with our latest products.\n",
                 "form_id": "subscribeForm",
                 "hide_labels": true,
                 "form_fields": [
