@@ -72,7 +72,7 @@
                     {
                         "label": "Twitter",
                         "url": "https://twitter.com/popularenergyhq",
-                        "style": "link",
+                        "style": "secondary",
                         "has_icon": true,
                         "icon": "twitter",
                         "icon_position": "left"
