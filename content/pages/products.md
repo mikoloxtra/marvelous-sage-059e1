@@ -27,7 +27,7 @@ sections:
         url: 'https://flutterwave.com/pay/popular-energy'
         style: primary
       - label: Call us now!
-        url: '<a href="tel:+2348182400598">+47 333 78 901</a>'
+        url: '<a href="tel:+2348182400598">+</a>'
         style: secondary
   - section_id: call-to-action
     type: section_cta
