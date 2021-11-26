@@ -29,7 +29,7 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         actions:
-          - label: Learn More
+          - label: Buy Now
             url: /features
             style: secondary
             has_icon: true
