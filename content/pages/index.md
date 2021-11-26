@@ -30,7 +30,7 @@ sections:
           consequat ex.
         actions:
           - label: Buy Now!
-            url: /features
+            url: 'https://flutterwave.com/pay/popular-energy'
             style: secondary
             has_icon: true
             icon: arrow-right
