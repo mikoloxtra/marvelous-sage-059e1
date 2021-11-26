@@ -44,7 +44,7 @@
                 "title": "Company",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "Products",
                         "url": "/about",
                         "style": "link"
                     },
