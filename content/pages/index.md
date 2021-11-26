@@ -34,7 +34,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: How does it work?
         image: /images/-O¦T_14.jpg
         image_alt: App users welcoming a new member
         content: >-
