@@ -31,6 +31,12 @@ sections:
         default_value: email-address
         options: []
         is_required: false
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
     submit_label: Submit
     type: section_contact
     section_id: Lead Magnet
