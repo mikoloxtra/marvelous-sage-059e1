@@ -103,7 +103,7 @@ sections:
         content: >-
           it's nicely designed.... better than any I've ever used. It's very
           solid. I'm impressed thus far.
-        avatar: /images/159905198_2911562099097702_3314649515213832605_n.jpg
+        avatar: /images/IMG_1007.JPG
       - author: Olalekan
         avatar_alt: Popular Energy Review
         content: >-
