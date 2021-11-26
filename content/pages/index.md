@@ -31,7 +31,7 @@ sections:
         default_value: email-address
         options: []
         is_required: false
-    submit_label: lorem-ipsum
+    submit_label: Submit
     type: section_contact
     section_id: Lead Magnet
   - section_id: features
