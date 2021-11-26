@@ -1,5 +1,5 @@
 ---
-title: How to use the Powerstation
+title: The Benefits of working remotely
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
