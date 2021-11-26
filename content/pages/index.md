@@ -30,7 +30,7 @@ sections:
         options: []
         is_required: false
       - input_type: text
-        name: lorem-ipsum
+        name: name
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
