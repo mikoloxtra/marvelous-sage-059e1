@@ -20,7 +20,7 @@ sections:
     subtitle: Learn more about how our Powerstation works under different applications.
     features:
       - title: The Best Feature of Your Services
-        image: /images/300W usage duration.jpg
+        image: /images/300W outputs and inputs.jpg
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
