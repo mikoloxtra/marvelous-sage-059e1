@@ -18,7 +18,7 @@ sections:
         style: primary
   - title: Newsletter
     subtitle: Subscribe to get the best deals in your email now!
-    background: gray
+    background: white
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     hide_labels: false
