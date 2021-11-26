@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: /images/300W front.png
     image_alt: App preview
-    title: The Portable Powertation 300W
+    title: The Portable Powerstation 300W
     content: >+
       The Powerstation is the perfect device for designers & developers to keep
       their gadgets powered up in an event of a power failure.
