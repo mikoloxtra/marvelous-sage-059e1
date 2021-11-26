@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: Fra
+    subtitle: Learn more about how our Powerstation works under different applications.
     features:
       - title: The Best Feature of Your Services
         image: /images/300W usage duration.jpg
