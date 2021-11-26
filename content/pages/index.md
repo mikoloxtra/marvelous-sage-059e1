@@ -20,7 +20,7 @@ sections:
     subtitle: Subscribe to get the best deals in your email now!
     background: white
     form_id: lead-magnet
-    form_action: lorem-ipsum
+    form_action: submit
     hide_labels: false
     form_fields:
       - input_type: email
