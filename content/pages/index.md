@@ -67,9 +67,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: Our C
     reviews:
       - author: David
         avatar_alt: Eric Widget's photo
