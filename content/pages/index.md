@@ -34,7 +34,7 @@ sections:
         label: name
         default_value: name
         options: []
-        is_required: false
+        is_required: true
     submit_label: Submit
     type: section_contact
     section_id: Lead Magnet
