@@ -31,7 +31,9 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call to Action Block!
+    title: >-
+      Want stable electricity? Get the Portable Powersation to keep your device
+      charged and stay productive.
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: 'Buy Now '
