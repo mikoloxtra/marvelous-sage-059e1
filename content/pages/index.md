@@ -27,6 +27,7 @@ sections:
     form_fields: []
     submit_label: lorem-ipsum
     type: section_contact
+    section_id: Lead Magnet
   - section_id: features
     type: section_features
     background: gray
