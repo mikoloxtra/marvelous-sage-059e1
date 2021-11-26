@@ -13,7 +13,7 @@ sections:
       - label: BUY NOW!
         url: 'https://flutterwave.com/pay/popular-energy'
         style: primary
-    - label: BUY NOW!
+     - label: BUY NOW!
         url: 'https://flutterwave.com/pay/popular-energy'
         style: primary
   - section_id: features
