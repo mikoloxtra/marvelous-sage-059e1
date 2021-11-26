@@ -31,7 +31,7 @@ sections:
         is_required: false
       - input_type: text
         name: name
-        label: lorem-ipsum
+        label: name
         default_value: lorem-ipsum
         options: []
         is_required: false
