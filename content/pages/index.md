@@ -37,10 +37,13 @@ sections:
       - title: How does it work?
         image: /images/-O¦T_14.jpg
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          The Portable powerstation packs a 93,000Mah Lithium Battery backed by
+          a 300W Peak pure sine wave inverter. This means it can charge any
+          device within the rated wattage. It charges with an AC adapter when
+          electricity is available(Nepa or Gen) as shown in the picture. It is
+          highly durable and safe as a result of an advanced BMS (battery
+          management system).
         actions:
           - label: Learn More
             url: /products
