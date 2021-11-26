@@ -5,7 +5,7 @@ sections:
     type: section_content
     background: gray
     image: /images/300W front-764ed20b.png
-    image_alt: 'Portable '
+    image_alt: Portable in
     title: The 300W Portable Powerstation
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
