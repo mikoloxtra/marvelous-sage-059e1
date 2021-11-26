@@ -41,7 +41,7 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Company",
+                "title": "Pages",
                 "nav_links": [
                     {
                         "label": "Products",
