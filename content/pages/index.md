@@ -21,7 +21,7 @@ sections:
     background: white
     form_id: lead-magnet
     form_action: submit
-    hide_labels: false
+    hide_labels: true
     form_fields:
       - input_type: email
         name: Newsletter
