@@ -24,11 +24,6 @@
                 "style": "link"
             },
             {
-                "label": "Buy Now!",
-                "url": "https://flutterwave.com/pay/popular-energy",
-                "style": "primary"
-            },
-            {
                 "label": "Blog",
                 "url": "blog",
                 "style": "link",
@@ -37,6 +32,11 @@
                 "icon_position": "left",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Buy Now!",
+                "url": "https://flutterwave.com/pay/popular-energy",
+                "style": "primary"
             }
         ]
     },
