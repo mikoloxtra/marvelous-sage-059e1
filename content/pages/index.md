@@ -155,7 +155,7 @@ seo:
       value: The preview of the Azimuth theme
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: /images/pe logo - Copy.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
