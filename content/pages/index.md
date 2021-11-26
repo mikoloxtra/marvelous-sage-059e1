@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: /images/300W front.png
     image_alt: App preview
-    title: The Portable powerstation 300W
+    title: The Portable Powerstation 300W
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
