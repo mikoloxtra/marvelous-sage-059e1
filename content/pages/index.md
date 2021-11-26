@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: /images/300W front.png
     image_alt: App preview
-    title: 'The '
+    title: The Port
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
