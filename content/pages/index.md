@@ -97,6 +97,22 @@ sections:
 
           I highly recommend it.
         avatar: /images/Profile_avatar_placeholder_large.png
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    actions: []
+    type: section_hero
   - section_id: call-to-action
     type: section_cta
     title: Want stable electricity?
