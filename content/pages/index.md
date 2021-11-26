@@ -54,10 +54,12 @@ sections:
       - title: Who is it designed for?
         image: /images/imageedit_6_4750278954 - Copy.jpg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          The Portable powerstation is designed for Digital Entrepreneurs,
+          Designers, Developers, Photographers and individuals who need stable
+          electricity to stay productive working from the house or in the field.
+          The powerstation is easy to use, affordable, efficient and portable
+          and can easily fit into your digital life style. 
         actions:
           - label: Buy Now!
             url: 'https://flutterwave.com/pay/popular-energy'
