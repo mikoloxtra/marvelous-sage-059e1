@@ -23,7 +23,7 @@ sections:
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
       sed justo tempor condimentum.
     actions:
-      - label: Free Trial
+      - label: Buy Online
         url: /signup
         style: primary
       - label: View Demo
