@@ -44,7 +44,7 @@ sections:
           auctor.
         actions:
           - label: Learn More
-            url: /features
+            url: /products
             style: secondary
             has_icon: true
             icon: arrow-right
