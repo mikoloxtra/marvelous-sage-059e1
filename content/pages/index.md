@@ -82,7 +82,7 @@ sections:
         avatar_alt: Parsley Montana's photo
         content: >-
           Works well! Carries my 50 inch tv sef, carries my fan, I have used it
-          to cha
+          to charge my two laptops after I switched off my generator for 
       - author: Jazeel
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
