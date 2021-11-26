@@ -71,7 +71,7 @@ sections:
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
     reviews:
-      - author: Samuel
+      - author: David
         avatar_alt: Eric Widget's photo
         content: >-
           Great Product! works with my laptop and standing fan. I no longer need
