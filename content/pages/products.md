@@ -38,7 +38,6 @@ sections:
         url: >-
           https://wa.me/%2B2348182400598?text=Hello%2C%20We%20are%20Popular%20Energy.%0AHow%20can%20we%20be%20of%20service%3F
         style: secondary
-        
   - section_id: call-to-action
     type: section_cta
     title: 'Want stable electricity? '
