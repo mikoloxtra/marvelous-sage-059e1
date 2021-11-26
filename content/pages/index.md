@@ -19,17 +19,8 @@ sections:
   - section_id: lorem-ipsum
     title: Newsletter
     subtitle: Subscribe to get the best deals in your email now!
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      *
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
