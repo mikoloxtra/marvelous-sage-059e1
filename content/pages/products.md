@@ -34,7 +34,7 @@ sections:
     title: This Is Call to Action Block!
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Bu
         url: '#'
         style: secondary
 seo:
