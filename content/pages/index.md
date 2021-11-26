@@ -138,7 +138,12 @@ sections:
     title: Latest Posts
 seo:
   title: Popular Energy
-  description: The preview of the Azimuth theme
+  description: >-
+    The 300W Portable Powerstation
+
+    The Portable Powerstation is a powerful Backup Generator with a 346wh
+    Capacity battery that can power your laptop, gadgets and small appliances fo
+    long hours. 
   extra:
     - name: 'og:type'
       value: website
