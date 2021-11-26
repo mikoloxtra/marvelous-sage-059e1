@@ -87,9 +87,7 @@ sections:
       - author: Jazeel
         avatar: /images/1619096163098.jpg
         avatar_alt: Jonquil Von Haggerston's photo
-        content: >-
-          it's nicely designed.... better than any I've ever used. It's very
-          solid. I'm impressed thus far.
+        content: GOOD PRODUCT.
   - section_id: call-to-action
     type: section_cta
     title: Want stable electricity?
