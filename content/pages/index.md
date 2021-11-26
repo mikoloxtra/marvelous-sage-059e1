@@ -93,7 +93,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Want stable electricity?
-    subtitle: 'Get the '
+    subtitle: Get the Portable Powersation to keep your device charged and s
     actions:
       - label: Buy Now!
         url: /signup
