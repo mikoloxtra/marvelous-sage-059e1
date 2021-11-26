@@ -31,9 +31,7 @@ sections:
         style: secondary
   - section_id: call-to-action
     type: section_cta
-    title: >-
-      Want stable electricity? Get the Portable Powersation to keep your device
-      charged and stay productive.
+    title: Want stable electricity? .
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: 'Buy Now '
