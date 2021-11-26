@@ -38,7 +38,7 @@ sections:
         url: '#'
         style: secondary
 seo:
-  title: products
+  title: Products
   description: This is the products page
   extra:
     - name: 'og:type'
