@@ -27,7 +27,7 @@ sections:
     form_fields:
       - input_type: email
         name: lorem-ipsum
-        label: emao
+        label: email
         default_value: lorem-ipsum
         options: []
         is_required: false
