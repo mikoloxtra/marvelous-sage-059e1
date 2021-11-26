@@ -11,7 +11,7 @@ sections:
       their gadgets powered up in an event of a power failure.
     actions:
       - label: BUY NOW!
-        title:
+        title: 
         url: 'https://flutterwave.com/pay/popular-energy'
         style: primary
   - section_id: features
