@@ -23,18 +23,18 @@ sections:
     form_action: submit
     hide_labels: true
     form_fields:
-      - input_type: email
-        name: Newsletter
-        label: Subscribe Now
-        default_value: email-address
-        options: []
-        is_required: false
       - input_type: text
         name: name
         label: name
         default_value: name
         options: []
         is_required: true
+      - input_type: email
+        name: Newsletter
+        label: Subscribe Now
+        default_value: email-address
+        options: []
+        is_required: false
     submit_label: Submit
     type: section_contact
     section_id: Lead Magnet
