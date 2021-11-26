@@ -122,6 +122,11 @@ sections:
 
           I highly recommend it.
         avatar: /images/Profile_avatar_placeholder_large.png
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
   - section_id: call-to-action
     type: section_cta
     title: Want stable electricity?
