@@ -83,6 +83,7 @@ sections:
           Works well! Carries my 50 inch tv sef, carries my fan, I have used it
           to charge my two laptops after I switched off my generator for several
           hours.
+        avatar: /images/103406896_1435166023539613_4312611922187006443_n.jpg
       - author: Jazeel
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
