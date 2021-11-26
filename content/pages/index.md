@@ -18,7 +18,7 @@ sections:
         style: primary
   - section_id: lorem-ipsum
     title: Get the Best Deals!
-    subtitle: lorem-ipsum
+    subtitle: Subscribe to get the best deals in your email now!
     content: >-
       ## Lorem ipsum
 
