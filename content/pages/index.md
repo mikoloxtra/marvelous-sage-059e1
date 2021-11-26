@@ -17,7 +17,7 @@ sections:
         url: 'https://flutterwave.com/pay/popular-energy'
         style: primary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Subscribe to Our Newsletter
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
