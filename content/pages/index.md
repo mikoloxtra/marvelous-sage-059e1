@@ -22,10 +22,11 @@ sections:
       - title: How does it work?
         image: /images/300W outputs and inputs.jpg
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Popular Energy power station is a rechargeable lithium battery-powered
+          generator. It is Equipped with 2 AC outled, DC outlets and USB
+          charging ports which can keep your laptop, fans, monitors and gadgets
+          charged.
         actions:
           - label: Buy Now!
             url: 'https://flutterwave.com/pay/popular-energy'
