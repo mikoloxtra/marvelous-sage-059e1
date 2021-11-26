@@ -6,9 +6,9 @@ sections:
     image: /images/300W front.png
     image_alt: App preview
     title: The Portable Powertation 300W
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      The Powerstation is the perfect device for designers & developers to keep
+      their gadgets powered up in an event of a power failure.
     actions:
       - label: BUY NOW!
         url: /features
