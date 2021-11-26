@@ -19,7 +19,7 @@ sections:
   - title: Newsletter
     subtitle: Subscribe to get the best deals in your email now!
     background: white
-    form_id: lorem-ipsum
+    form_id: lead-magnet
     form_action: lorem-ipsum
     hide_labels: false
     form_fields:
