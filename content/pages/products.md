@@ -24,7 +24,7 @@ sections:
       sed justo tempor condimentum.
     actions:
       - label: Buy Online
-        url: /signup
+        url: 'https://flutterwave.com/pay/popular-energy'
         style: primary
       - label: View Demo
         url: '#'
