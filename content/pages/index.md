@@ -27,7 +27,7 @@ sections:
     form_fields:
       - input_type: email
         name: Newsletter
-        label: email
+        label: Subscribe Now
         default_value: email-address
         options: []
         is_required: false
