@@ -78,7 +78,6 @@ sections:
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
       - author: Olalekan
-        avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
           Works well! Carries my 50 inch tv sef, carries my fan, I have used it
