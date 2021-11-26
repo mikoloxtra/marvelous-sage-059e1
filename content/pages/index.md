@@ -6,32 +6,12 @@ sections:
     image: /images/300W front.png
     image_alt: App preview
     title: The Portable Powertation 300W
-    content: >
-      The Portable Powerstation is a powerful Backup Generator with a 346wh
-      Capacity battery that can power your laptop, gadgets and small appliances
-      fo long hours. It has AC outlets for devices up to 300w, Usb charging
-      ports and DC ports for DC devices.
+    content: >+
+      The Powerstation is the perfect device for designers & developers to keep
+      their gadgets powered up in an event of a power failure.
 
 
 
-      ***Features***
-
-
-      *   Powerful 93,600Mah Lithium battery that can charge a laptop up to 5
-      times over.
-
-
-      *   Durable Aluminium Build and a sturdy handle which makes it portable
-      and highly durable
-
-
-      *   Easy to setup and use, Multiple charging options with Electricity,
-      Generator and an Optional Solar charging Feature if you're totally
-      offgrid.
-
-
-      Get the Portable Geneator so you never have to stop working due to a power
-      outages for **₦120,000 only!**
     actions:
       - label: 'BUY NOW FOR ₦120,000 only!'
         url: 'https://flutterwave.com/pay/popular-energy'
