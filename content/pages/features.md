@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Products
 sections:
   - section_id: features
     type: section_content
