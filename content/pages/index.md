@@ -62,7 +62,7 @@ sections:
           The powerstation is easy to use, affordable, efficient and portable
           and can easily fit into your digital life style. 
         actions:
-          - label: Buy Now!
+          - label: 'BUY NOW FOR ₦120,000 only!'
             url: 'https://flutterwave.com/pay/popular-energy'
             style: secondary
             has_icon: true
