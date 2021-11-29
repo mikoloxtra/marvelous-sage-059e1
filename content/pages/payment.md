@@ -12,7 +12,7 @@ sections:
         price: '₦120,000'
         details: |-
           * Instant Payment with your card
-          * Order Confirmation
+          * Order Confirmation 
           * Suspendisse ut lacus
           * Etiam eget dui a augue
         actions:
