@@ -2,7 +2,7 @@
 title: Payment
 sections:
   - section_id: payment
-    type: section_payment
+    type: section_pricin
     background: gray
     title: Payment Methods
     subtitle: You can have a separate pricing page or list everything on the home page.
