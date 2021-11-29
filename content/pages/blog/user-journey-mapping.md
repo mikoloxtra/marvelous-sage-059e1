@@ -3,7 +3,7 @@ title: How much do you spend on fuel each year?
 subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
-excerpt: We spend so much on diesel and Petrol powering our homes and businesses daily.
+excerpt: "We spend so much on diesel and Petrol powering our homes and businesses daily.\_ Just how much do we really spend and how can we be more economical with it...."
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: /images/petrol-money.jpg
