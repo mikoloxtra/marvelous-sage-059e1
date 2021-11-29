@@ -46,7 +46,7 @@ sections:
       productive.
     actions:
       - label: 'Buy Now '
-        url: 'https://flutterwave.com/pay/popular-energy'
+        url: 'https://popular.energy/payment/'
         style: secondary
 seo:
   title: Products
