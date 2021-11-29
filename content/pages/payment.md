@@ -68,7 +68,7 @@ sections:
           Yes, It comes with a 1 Year full Warranty
       - question: How soon will I get my order?
         answer: >-
-          Delivery takes .
+          We ship as soon as we receive your order.
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
