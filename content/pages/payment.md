@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Payment
 sections:
   - section_id: pricing
     type: section_pricing
