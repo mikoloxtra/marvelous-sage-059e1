@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Bank Transfer
         subtitle: Pay Directly to Our Bank account
-        price: $49/m
+        price: '₦120,'
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
