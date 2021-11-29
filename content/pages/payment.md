@@ -14,6 +14,8 @@ sections:
           * Instant Payment with your card online.
 
           * Only use this option if your delivery Address is Lagos/Ogun.
+
+          *Payment will be confrimed instntly and the item will be delivered
         actions:
           - label: Order Now
             url: 'https://flutterwave.com/pay/popular-energy'
