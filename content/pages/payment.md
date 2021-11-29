@@ -41,7 +41,6 @@ sections:
         subtitle: Pay Installmentally with cdcare.ng
         price: '₦60,000'
         details: |-
-          
           * To get this offer,
            1. Visit app.cdcare.ng
            2. Search for "popular inverter
