@@ -34,7 +34,7 @@ sections:
             url: /signup
             style: primary
       - title: CDcare.ng
-        subtitle: For very large businesses
+        subtitle: Pay Installmentally with cdcare.ng
         price: $149/m
         details: |-
           * Vestibulum non eros quis
