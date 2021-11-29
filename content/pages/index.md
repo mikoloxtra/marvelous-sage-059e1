@@ -87,7 +87,7 @@ sections:
           and can easily fit into your digital life style. 
         actions:
           - label: 'BUY NOW FOR ₦120,000 only!'
-            url: 'https://flutterwave.com/pay/popular-energy'
+            url: 'https://popular.energy/payment/'
             style: secondary
             has_icon: true
             icon: arrow-right
