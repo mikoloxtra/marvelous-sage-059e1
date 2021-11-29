@@ -41,7 +41,7 @@ sections:
         subtitle: Pay Installmentally with cdcare.ng
         price: '₦60,000'
         details: |-
-          * Now, you can buy the super-powerful popular energy #inverter and pay in installments.
+          * Now, you can buy the inverter and pay in installments.
           * To get this offer,
            1. Visit app.cdcare.ng
            2. Search for "popular inverter
