@@ -68,9 +68,7 @@ sections:
           Yes, It comes with a 1 Year full Warranty
       - question: How soon will I get my order?
         answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
+          Delivery takes .
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
