@@ -1,7 +1,7 @@
 ---
 title: Payment
 sections:
-  - section_id: pricing
+  - section_id: payment
     type: section_pricing
     background: gray
     title: Pricing Plans
