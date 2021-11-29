@@ -8,7 +8,7 @@ sections:
     subtitle: Choose a Payment Method that Best Suits you.
     pricing_plans:
       - title: Card
-        subtitle: For small businesses
+        subtitle: Online Payment with your ATM Card.
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
