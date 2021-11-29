@@ -17,7 +17,7 @@ sections:
           * Etiam eget dui a augue
         actions:
           - label: Order Now
-            url: /signup
+            url: 'https://flutterwave.com/pay/popular-energy'
             style: secondary
       - title: Bank Transfer
         subtitle: Pay Directly to Our Bank account
