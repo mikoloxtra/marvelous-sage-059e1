@@ -15,7 +15,7 @@ sections:
 
           * Only use this option if your delivery Address is Lagos/Ogun.
 
-          *Payment will be confrimed instntly and the item will be delivered
+          *Payment will be confrimed instntly and the item will be delivered within 24 hours.
         actions:
           - label: Order Now
             url: 'https://flutterwave.com/pay/popular-energy'
