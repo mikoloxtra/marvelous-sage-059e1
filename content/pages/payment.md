@@ -31,7 +31,8 @@ sections:
         highlight: true
         actions:
           - label: Order Now
-            url: /signup
+            url: >-
+              https://wa.me/%2B2348182400598?text=Hello%2C%20I%20want%20to%20make%20a%20payment%20on%20your%20site%20but%20want%20to%20confirm%20a%20few%20things%20before%20I%20go%20ahead.
             style: primary
       - title: Buy now Pay Later
         subtitle: Pay Installmentally with cdcare.ng
