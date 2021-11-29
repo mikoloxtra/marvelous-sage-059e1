@@ -130,7 +130,7 @@ sections:
       productive.
     actions:
       - label: 'Buy Now ₦120,000 only!'
-        url: 'https://flutterwave.com/pay/popular-energy'
+        url: 'https://popular.energy/payment/'
         style: primary
   - section_id: recent-posts
     type: section_posts
