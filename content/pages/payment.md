@@ -33,7 +33,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Pay "small small"
+      - title: Buy now Pay Later
         subtitle: Pay Installmentally with cdcare.ng
         price: $149/m
         details: |-
