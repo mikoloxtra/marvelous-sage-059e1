@@ -12,9 +12,6 @@ sections:
         price: '₦120,000'
         details: |-
           * Instant Payment with your card
-          * Order Confirmation 
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
         actions:
           - label: Order Now
             url: 'https://flutterwave.com/pay/popular-energy'
