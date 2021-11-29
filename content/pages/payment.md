@@ -7,7 +7,7 @@ sections:
     title: Payment Methods
     subtitle: Choose a Payment Method that Best Suits you.
     pricing_plans:
-      - title: Basic
+      - title: Card
         subtitle: For small businesses
         price: $5/m
         details: |-
