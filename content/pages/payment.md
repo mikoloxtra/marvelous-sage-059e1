@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Card
         subtitle: Online Payment with your ATM Card.
-        price: $5/m
+        price: '₦120,000'
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
