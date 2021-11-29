@@ -73,7 +73,7 @@ sections:
           lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 seo:
-  title: payment
+  title: Payment
   description: This is the pricing page
   extra:
     - name: 'og:type'
