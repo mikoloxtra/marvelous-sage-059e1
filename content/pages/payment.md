@@ -63,7 +63,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: Here are some frequently asked questions
     faq_items:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+      - question: Does the inverter come with a warranty?
         answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
           tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
