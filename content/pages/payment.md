@@ -90,6 +90,6 @@ seo:
     - name: 'twitter:title'
       value: Payment
     - name: 'twitter:description'
-      value: This is the pricing page
+      value: This is the payment page
 layout: landing
 ---
