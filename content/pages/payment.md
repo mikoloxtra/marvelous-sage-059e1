@@ -88,7 +88,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: payment
+      value: Payment
     - name: 'twitter:description'
       value: This is the pricing page
 layout: landing
