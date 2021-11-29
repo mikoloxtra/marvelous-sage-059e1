@@ -74,7 +74,7 @@ sections:
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 seo:
   title: Payment
-  description: This is the pricing page
+  description: This is the payment page
   extra:
     - name: 'og:type'
       value: website
