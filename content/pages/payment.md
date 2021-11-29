@@ -10,12 +10,15 @@ sections:
       - title: Card
         subtitle: Online Payment with your ATM Card.
         price: '₦120,000'
-        details: |-
+        details: >-
           * Instant Payment with your card online.
+
 
           * Only use this option if your delivery Address is Lagos/Ogun.
 
-          * Payment will be confrimed instntly and the item will be delivered within 24 hours.
+
+          * Payment will be confrimed instntly and the item will be delivered
+          within 24 hours.
         actions:
           - label: Order Now
             url: 'https://flutterwave.com/pay/popular-energy'
@@ -23,14 +26,18 @@ sections:
       - title: Bank Transfer
         subtitle: Pay Directly to Our Bank account
         price: '₦120,000'
-        details: |-
-          * Choose this option if you want to do a direct transfer into our corporate account. 
+        details: >-
+          * Choose this option if you want to do a direct transfer into our
+          corporate account. 
+
 
           * 7900600747 
             Providus Bank 
             Popular Energy Resources Limited
 
-          * Click the Button below to make any inquiries if uncertain about certain aspects of the product, delivery or general questions before making a transfer.
+          * Click the Button below to make any inquiries if uncertain about
+          certain aspects of the product, delivery or general questions before
+          making a transfer.
         highlight: true
         actions:
           - label: Order Now
@@ -54,7 +61,7 @@ sections:
     type: section_faq
     background: gray
     title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: Here are some frequently asked questions
     faq_items:
       - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
         answer: >-
