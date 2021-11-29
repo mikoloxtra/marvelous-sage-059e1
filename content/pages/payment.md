@@ -71,9 +71,9 @@ sections:
           We ship as soon as we receive your order.
 
           Typically same day delivery for Lagos/Ogun orders place before 2pm. 
-          
+
           While 2-3 days for orders outside the west.
-      - question: Sed scelerisque in ipsum eu sollicitudin?
+      - question: Do I need an electrician to install my inverter?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
