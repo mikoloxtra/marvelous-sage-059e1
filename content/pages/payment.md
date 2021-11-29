@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Payment Methods
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: Choose a Payment Method that Best Suits you.
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
