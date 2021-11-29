@@ -69,7 +69,7 @@ sections:
       - question: How soon will I get my order?
         answer: >-
           We ship as soon as we receive your order.
-          * Typically same day delivery for Lagos/Ogun orders place before 2pm. 
+          Typically same day delivery for Lagos/Ogun orders place before 2pm. 
           While 2-3 days for orders outside the west.
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
