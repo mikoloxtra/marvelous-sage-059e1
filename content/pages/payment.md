@@ -35,7 +35,7 @@ sections:
             style: primary
       - title: Buy now Pay Later
         subtitle: Pay Installmentally with cdcare.ng
-        price: $149/m
+        price: '120000'
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
