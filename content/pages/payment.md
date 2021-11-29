@@ -2,7 +2,7 @@
 title: Payment
 sections:
   - section_id: payment
-    type: section_pricing
+    type: section_payment
     background: gray
     title: Pricing Plans
     subtitle: You can have a separate pricing page or list everything on the home page.
