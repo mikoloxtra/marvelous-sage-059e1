@@ -20,7 +20,7 @@ sections:
             url: /signup
             style: secondary
       - title: Bank Transfer
-        subtitle: For medium-sized businesses
+        subtitle: Pay Directly to Our Bank account
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
