@@ -35,7 +35,7 @@ sections:
             style: primary
       - title: Buy now Pay Later
         subtitle: Pay Installmentally with cdcare.ng
-        price: ₦120000
+        price: '₦120,000'
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
