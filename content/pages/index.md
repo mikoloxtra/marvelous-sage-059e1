@@ -14,7 +14,7 @@ sections:
 
     actions:
       - label: 'BUY NOW FOR ₦120,000 only!'
-        url: 'https://flutterwave.com/pay/popular-energy'
+        url: 'https://popular.energy/payment/'
         style: primary
   - title: Newsletter
     subtitle: Subscribe to get the best deals in your email now!
