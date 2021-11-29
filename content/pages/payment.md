@@ -11,7 +11,8 @@ sections:
         subtitle: Online Payment with your ATM Card.
         price: '₦120,000'
         details: |-
-          * Instant Payment with your card online
+          * Instant Payment with your card online.
+          On
         actions:
           - label: Order Now
             url: 'https://flutterwave.com/pay/popular-energy'
