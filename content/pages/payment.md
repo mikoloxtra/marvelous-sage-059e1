@@ -24,7 +24,7 @@ sections:
         subtitle: Pay Directly to Our Bank account
         price: '₦120,000'
         details: |-
-          * Choose this option if you want to do a direct tranfer into our 
+          * Choose this option if you want to do a direct tranfer into our corporate account. 
         highlight: true
         actions:
           - label: Order Now
