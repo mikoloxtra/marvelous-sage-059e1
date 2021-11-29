@@ -66,7 +66,7 @@ sections:
       - question: Does the inverter come with a warranty?
         answer: >-
           Yes, It comes with a 1 Year full Warranty
-      - question: Aliquam eget purus ante?
+      - question: How soon will I get my or?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
