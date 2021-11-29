@@ -26,7 +26,7 @@ sections:
         details: |-
           * Choose this option if you want to do a direct transfer into our corporate account. 
 
-          * Click the Button below to make any inquiries if uncertain about certain aspects of the product, delivery or general questions.
+          * Click the Button below to make any inquiries if uncertain about certain aspects of the product, delivery or general questions before making a transfer.
         highlight: true
         actions:
           - label: Order Now
