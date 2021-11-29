@@ -12,6 +12,7 @@ sections:
         price: '₦120,000'
         details: |-
           * Instant Payment with your card online.
+          
           Only use this option if your delivery Address is Lagos/Ogun.
         actions:
           - label: Order Now
