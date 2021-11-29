@@ -50,7 +50,7 @@ sections:
         details: |-
           * To get this offer,
            1. Visit app.cdcare.ng
-           2. Search for "popular inverter{}
+           2. Search for "popular inverter"
            3. Choose a payment plan
            4. Place your order!
         actions:
