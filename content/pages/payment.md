@@ -11,7 +11,7 @@ sections:
         subtitle: Online Payment with your ATM Card.
         price: '₦120,000'
         details: |-
-          * Lorem ipsum dolor sit amet
+          * Instant Payment with your card
           * Mauris a mi tincidunt
           * Suspendisse ut lacus
           * Etiam eget dui a augue
