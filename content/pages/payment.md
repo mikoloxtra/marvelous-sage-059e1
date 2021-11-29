@@ -47,9 +47,6 @@ sections:
            2. Search for "popular inverter
            3. Choose a payment plan
            4. Place your order!
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
         actions:
           - label: Order Now
             url: 'https://app.cdcare.ng'
