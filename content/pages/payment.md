@@ -83,7 +83,7 @@ seo:
       value: Payment
       keyName: property
     - name: 'og:description'
-      value: This is the pricing page
+      value: This is the payment page
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
