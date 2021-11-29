@@ -32,7 +32,7 @@ sections:
       outages for **₦120,000 only!**
     actions:
       - label: Buy Online
-        url: 'https://flutterwave.com/pay/popular-energy'
+        url: 'https://popular.energy/payment/'
         style: primary
       - label: Chat with us
         url: >-
