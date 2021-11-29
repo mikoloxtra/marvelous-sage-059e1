@@ -24,7 +24,7 @@ sections:
         subtitle: Pay Directly to Our Bank account
         price: '₦120,000'
         details: |-
-          * 
+          * Choose this option 
         highlight: true
         actions:
           - label: Order Now
