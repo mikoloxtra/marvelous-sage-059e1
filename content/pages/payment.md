@@ -25,7 +25,7 @@ sections:
         price: '₦120,000'
         details: |-
           * Choose this option if you want to do a direct transfer into our corporate account. 
-          * click the Button below to make any inquiries i
+          * click the Button below to make any inquiries if uncertain about certain aspects of the product, delivery 
         highlight: true
         actions:
           - label: Order Now
