@@ -12,7 +12,7 @@ sections:
         price: '₦120,000'
         details: |-
           * Instant Payment with your card online.
-          On
+          Only use this option if your delivery Address is Lagos
         actions:
           - label: Order Now
             url: 'https://flutterwave.com/pay/popular-energy'
