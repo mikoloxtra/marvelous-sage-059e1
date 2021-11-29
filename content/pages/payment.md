@@ -80,7 +80,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Pricing
+      value: payment
       keyName: property
     - name: 'og:description'
       value: This is the pricing page
