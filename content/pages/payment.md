@@ -75,7 +75,7 @@ sections:
           While 2-3 days for orders outside the west.
       - question: Do I need an electrician to install my inverter?
         answer: >-
-          No you do not. The Portable Power Station is easy to use and does not require electrical wiring. Insert the fuses that come with the device into the labelled slot "working fuses and plug the device to charge for first time use. REad the user manual for more information.
+          No you do not. The Portable Power Station is easy to use and does not require electrical wiring. Insert the fuses that come with the device into the labelled slot "working fuses and plug the device to charge for first time use. Read the user manual for more information.
 seo:
   title: Payment
   description: This is the payment page
