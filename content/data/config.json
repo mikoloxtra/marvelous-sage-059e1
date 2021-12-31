@@ -60,7 +60,7 @@
                     },
                     {
                         "label": "Blog",
-                        "url": "/blog",
+                        "url": "#",
                         "style": "link"
                     },
                     {
