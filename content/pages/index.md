@@ -165,7 +165,7 @@ seo:
     - name: 'twitter:description'
       value: Portable power storage devices for your laptops and gadgets.
     - name: 'twitter:image'
-      value: images/hero.png
+      value: /images/-O¦T_14.jpg
       relativeUrl: true
 layout: landing
 ---
