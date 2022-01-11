@@ -152,7 +152,7 @@ seo:
       value: Popular Energy
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Portable power storage devices for your laptops and gadgets.
       keyName: property
     - name: 'og:image'
       value: /images/pe logo - Copy.png
