@@ -163,7 +163,7 @@ seo:
     - name: 'twitter:title'
       value: Portable power storage devices for your laptops and gadgets.
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: Portable power storage devices for your laptops and gadgets.
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
