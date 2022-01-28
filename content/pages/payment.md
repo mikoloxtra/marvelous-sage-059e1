@@ -10,15 +10,19 @@ sections:
       - title: Card
         subtitle: Online Payment with your ATM Card.
         price: '₦120,000'
-        details: >-
-          * Instant Payment with your card online.
+        details: >
+          *   Instant Payment with your card online.
 
 
-          * Only use this option if your delivery Address is Lagos/Ogun.
+          *   Only use this option if your delivery Address is Lagos/Ogun.
 
 
-          * Payment will be confrimed instntly and the item will be delivered
+          *   Payment will be confirmed instantly and the item will be delivered
           within 24 hours.
+
+
+          *   **NOTE: Delivery outside Lagos attracts extra delivery fees from
+          3-5k Depending on the Location.**
         actions:
           - label: Order Now
             url: 'https://flutterwave.com/pay/popular-energy'
