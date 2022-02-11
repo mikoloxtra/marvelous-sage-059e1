@@ -5,7 +5,7 @@ sections:
     title: Preorder Form
     subtitle: 'To sign up for a slot on the new batch , Fill the form in the Link Below .'
     actions:
-      - label: lorem-ipsum
+      - label: Preorder
         url: lorem-ipsum
         style: link
         has_icon: false
