@@ -15,7 +15,7 @@ sections:
         no_follow: false
       - label: Join Telegram
         url: 'https://t.me/+UC0F00zKAHZhZjI0'
-        style: link
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: left
