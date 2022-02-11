@@ -2,7 +2,7 @@
 title: Pre order
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Preorder Form
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
