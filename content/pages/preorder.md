@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Preorder
         url: 'https://forms.gle/fi3EdZ3sNGzEDocb9'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: left
