@@ -13,7 +13,7 @@ sections:
         icon_position: left
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: Join Telegram
         url: lorem-ipsum
         style: link
         has_icon: false
