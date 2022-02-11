@@ -14,7 +14,9 @@ sections:
         new_window: false
         no_follow: false
       - label: Join Telegram
-        url: lorem-ipsum
+        url: >-
+          Preorder List   https://forms.gle/fi3EdZ3sNGzEDocb9  Telegram
+          Channel:  https://t.me/+UC0F00zKAHZhZjI0
         style: link
         has_icon: false
         icon: arrow-left
