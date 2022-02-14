@@ -70,7 +70,7 @@
                     },
                     {
                         "label": "Buy Now",
-                        "url": "https://flutterwave.com/pay/popular-energy",
+                        "url": "https://popular.energy/preorder/",
                         "style": "primary",
                         "has_icon": false,
                         "icon": "arrow-left",
