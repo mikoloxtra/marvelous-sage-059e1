@@ -129,7 +129,7 @@ sections:
       Get the Portable Powersation to keep your device charged and stay
       productive.
     actions:
-      - label: 'Buy Now ₦120,000 only!'
+      - label: PREORDER NOW!
         url: 'https://popular.energy/preorder/'
         style: primary
   - section_id: recent-posts
