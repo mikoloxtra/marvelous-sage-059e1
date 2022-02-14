@@ -54,7 +54,7 @@ sections:
           charged.
         actions:
           - label: Preorder now!
-            url: 'https://popular.energy/payment/'
+            url: 'https://popular.energy/preorder/'
             style: secondary
             has_icon: true
             icon: arrow-right
