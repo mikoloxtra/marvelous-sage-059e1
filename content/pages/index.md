@@ -13,7 +13,7 @@ sections:
 
 
     actions:
-      - label: P
+      - label: PreorderRe
         url: 'https://popular.energy/preorder/'
         style: primary
   - title: Newsletter
