@@ -53,7 +53,7 @@ sections:
           charging ports which can keep your laptop, fans, monitors and gadgets
           charged.
         actions:
-          - label: 'BUY NOW FOR ₦120,000 only!'
+          - label: Preorder now!
             url: 'https://popular.energy/payment/'
             style: secondary
             has_icon: true
