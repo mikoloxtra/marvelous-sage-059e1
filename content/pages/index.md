@@ -13,7 +13,7 @@ sections:
 
 
     actions:
-      - label: 'BUY NOW FOR ₦120,000 only!'
+      - label: Preorder
         url: 'https://popular.energy/payment/'
         style: primary
   - title: Newsletter
