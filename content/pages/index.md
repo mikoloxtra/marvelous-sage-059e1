@@ -17,7 +17,7 @@ sections:
         url: 'https://popular.energy/preorder/'
         style: primary
   - title: Newsletter
-    subtitle: Subscribe to get the best deals in your email now!
+    subtitle: Subscribe to get on the waiting list for the next batch
     background: white
     form_id: lead-magnet
     form_action: submit
