@@ -87,7 +87,7 @@ sections:
           and can easily fit into your digital life style. 
         actions:
           - label: PREORDER NOW!
-            url: 'https://popular.energy/payment/'
+            url: 'https://popular.energy/preorder/'
             style: secondary
             has_icon: true
             icon: arrow-right
