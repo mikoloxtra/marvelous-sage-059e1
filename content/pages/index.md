@@ -14,7 +14,7 @@ sections:
 
     actions:
       - label: Preorder
-        url: 'https://popular.energy/payment/'
+        url: 'https://popular.energy/preorder/'
         style: primary
   - title: Newsletter
     subtitle: Subscribe to get the best deals in your email now!
