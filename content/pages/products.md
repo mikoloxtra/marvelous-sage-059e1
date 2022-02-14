@@ -32,7 +32,7 @@ sections:
       outages for **₦120,000 only!**
     actions:
       - label: Preorder Next Batch
-        url: 'https://popular.energy/payment/'
+        url: 'https://popular.energy/preorder/'
         style: primary
       - label: Chat with us
         url: >-
