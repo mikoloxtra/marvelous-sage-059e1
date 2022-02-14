@@ -29,7 +29,7 @@ sections:
 
 
       Get the Portable Geneator so you never have to stop working due to a power
-      outages for **₦120,000 only!**
+      outages.
     actions:
       - label: Preorder Next Batch
         url: 'https://popular.energy/preorder/'
