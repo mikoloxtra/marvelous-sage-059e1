@@ -86,7 +86,7 @@ sections:
           The powerstation is easy to use, affordable, efficient and portable
           and can easily fit into your digital life style. 
         actions:
-          - label: 'BUY NOW FOR ₦120,000 only!'
+          - label: PREORDER NOW!
             url: 'https://popular.energy/payment/'
             style: secondary
             has_icon: true
