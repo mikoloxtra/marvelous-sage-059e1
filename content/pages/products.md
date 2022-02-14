@@ -46,7 +46,7 @@ sections:
       productive.
     actions:
       - label: 'Buy Now '
-        url: 'https://popular.energy/payment/'
+        url: 'https://popular.energy/preorder/'
         style: secondary
 seo:
   title: Products
