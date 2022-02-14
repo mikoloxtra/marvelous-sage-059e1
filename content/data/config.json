@@ -34,7 +34,7 @@
                 "no_follow": false
             },
             {
-                "label": "Buy Now!",
+                "label": "Preorder !",
                 "url": "https://popular.energy/payment",
                 "style": "primary"
             }
