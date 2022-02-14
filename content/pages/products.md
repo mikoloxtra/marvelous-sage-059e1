@@ -45,7 +45,7 @@ sections:
       Get the Portable Powersation to keep your device charged and stay
       productive.
     actions:
-      - label: Preorder Now
+      - label: Preorder Now!
         url: 'https://popular.energy/preorder/'
         style: secondary
 seo:
