@@ -53,7 +53,7 @@ sections:
           charging ports which can keep your laptop, fans, monitors and gadgets
           charged.
         actions:
-          - label: Preorder now!
+          - label: PREORDER NOW!
             url: 'https://popular.energy/preorder/'
             style: secondary
             has_icon: true
