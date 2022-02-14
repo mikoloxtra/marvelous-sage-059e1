@@ -7,7 +7,9 @@ sections:
     title: Contact
     content: >
       Send us an email with the form below or WhatsApp/ give us a call on
-      08182400598
+      08182400598. Also you can join our Telegram Channel to stay up to date
+      with our latest product and get help on how to use the product. Join here
+      <https://t.me/+UC0F00zKAHZhZjI0>
     form_id: contactForm
     form_fields:
       - input_type: text
