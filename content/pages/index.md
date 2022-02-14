@@ -130,7 +130,7 @@ sections:
       productive.
     actions:
       - label: 'Buy Now ₦120,000 only!'
-        url: 'https://popular.energy/payment/'
+        url: 'https://popular.energy/preorder/'
         style: primary
   - section_id: recent-posts
     type: section_posts
